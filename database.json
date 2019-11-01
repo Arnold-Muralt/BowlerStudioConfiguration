@@ -1,4 +1,10 @@
 {
+  "workspace": {
+    "https://github.com/Arnold-Muralt/greycat.git": [
+      "Arnold-Muralt/greycat",
+      "1572569648249"
+    ]
+  },
   "studio-open-web": {},
   "BowlerStudioConfigs": {
     "fontsize": 12.0,
