@@ -14,10 +14,6 @@
     "https://github.com/Arnold-Muralt/FinalProjectSmallKat_Arnold-Muralt.git:launch.groovy": [
       "https://github.com/Arnold-Muralt/FinalProjectSmallKat_Arnold-Muralt.git",
       "launch.groovy"
-    ],
-    "https://github.com/Arnold-Muralt/greycat.git:launch.groovy": [
-      "https://github.com/Arnold-Muralt/greycat.git",
-      "launch.groovy"
     ]
   },
   "BowlerStudioConfigs": {
