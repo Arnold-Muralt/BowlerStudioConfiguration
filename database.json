@@ -15,6 +15,10 @@
       "https://github.com/Arnold-Muralt/FinalProjectSmallKat_Arnold-Muralt.git",
       "TestWalkCycle.groovy"
     ],
+    "https://github.com/Arnold-Muralt/FinalProjectSmallKat_Arnold-Muralt.git:DeviceManagerExample.groovy": [
+      "https://github.com/Arnold-Muralt/FinalProjectSmallKat_Arnold-Muralt.git",
+      "DeviceManagerExample.groovy"
+    ],
     "https://github.com/Arnold-Muralt/FinalProjectSmallKat_Arnold-Muralt.git:launch.groovy": [
       "https://github.com/Arnold-Muralt/FinalProjectSmallKat_Arnold-Muralt.git",
       "launch.groovy"
